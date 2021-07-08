@@ -1,6 +1,6 @@
 # House_Prediction
 Predict the House Price given some parameters. 
-#Deployment
+# Deployment
 [Link to Deployment](https://house-price-prediction-cali.herokuapp.com/)
 # Motivation
 This is a regression project. The goal was to build a simple dashboard that anyone can play with to determine what features influences house prices
